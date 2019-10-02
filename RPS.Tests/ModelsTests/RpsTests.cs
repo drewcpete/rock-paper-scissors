@@ -1,7 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Rps;
-// using Player;
-// using Rps.Tests;
+
 
 namespace Rps.Tests
 {

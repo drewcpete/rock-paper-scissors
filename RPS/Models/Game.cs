@@ -45,7 +45,7 @@ public class Game
     }
     else 
     {
-      Winner= "Someone's a narcotics officer, run!";
+      Winner= "Someone entered an invalid input";
     }
     return Winner;
   }
