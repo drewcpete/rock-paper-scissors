@@ -8,7 +8,7 @@ namespace Rps
     public static void Main()
     {
       Game newGame = new Game();
-      Console.WriteLine("Welcome to rps!");
+      Console.WriteLine("Welcome to  ⊘ ▤ ✂ !");
       Console.WriteLine("Player 1, make your move. rock/paper/scissors");
       
       string input1 = Console.ReadLine();

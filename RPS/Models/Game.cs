@@ -45,7 +45,7 @@ public class Game
     }
     else 
     {
-      Winner= "unknown object";
+      Winner= "Someone's a narcotics officer, run!";
     }
     return Winner;
   }
